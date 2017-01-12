@@ -1,4 +1,4 @@
-/*
+
 #include <cstdio>
 using namespace std;
 int T,N,M,K;
@@ -44,4 +44,3 @@ int main(){
     }
 }
 
-*/
