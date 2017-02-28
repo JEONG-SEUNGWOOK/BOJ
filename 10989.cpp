@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 #define MAX_SIZE 10000
-int N,a,count[MAX_SIZE+1]={0,}, sum[MAX_SIZE+1];
+int N,a,count[MAX_SIZE+1]={0,};
 
 int main(){
     scanf("%d",&N);
